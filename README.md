@@ -26,4 +26,8 @@
 
         Tkinter, Kivy, PyQt, Turtle, WxPython, PyQUI
 
+        Подробно о Tkinter https://www.youtube.com/watch?v=qsAfMWWmAF8
+        Информация о замере времени https://www.youtube.com/watch?v=9AHe6NhLs0s
+        
+
 - Язык структурированных запросов (SQL)
